@@ -23,11 +23,11 @@ The user must enter predefined card number and password to access the ATM. If on
    
 2. Change into the project directory:
 
-  cd ATM-interface-using-Python-OOP
+     cd ATM-interface-using-Python-OOP
 
 3. Run the script:
 
-  python ATM.py
+     python ATM.py
   
 4. Follow the instructions to use the ATM system.
 
